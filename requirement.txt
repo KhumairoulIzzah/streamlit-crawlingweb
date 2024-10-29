@@ -1,8 +1,0 @@
-pandas==2.2.3
-nltk==3.9.1
-seaborn==0.12.2
-matplotlib==3.7.0
-streamlit
-pickle
-sklearn
-pip==24.3.1
