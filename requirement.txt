@@ -4,5 +4,5 @@ seaborn==0.12.2
 matplotlib==3.7.0
 streamlit
 pickle
-scikit-learn
+sklearn
 pip==24.3.1
